@@ -25,7 +25,8 @@
                 double result = (number13 + number22 + number3 + number4 + number5) / 5;
             Console.WriteLine("The average of {0}, {1}, {2}, {3}, {4} is: {5}",
             number13, number22, number3, number4, number5, result);
-            
+             //Redo at home 
+             //
 
         }
     }
